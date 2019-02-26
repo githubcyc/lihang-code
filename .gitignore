@@ -1,0 +1,20 @@
+# editor
+.DS_Store
+.idea
+.vscode
+
+# compiled / optimized / DLL files
+__pycache__/
+.pytest_cache
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# jupyter notebook
+.ipynb_checkpoints
